@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CheckServiceMemory\CheckServiceMemory\bin\Debug\CheckServiceMemory.exe
+C:\Users\Administrator\source\repos\CheckServiceMemory\CheckServiceMemory\bin\Debug\CheckServiceMemory.pdb
+C:\Users\Administrator\source\repos\CheckServiceMemory\CheckServiceMemory\obj\Debug\CheckServiceMemory.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CheckServiceMemory\CheckServiceMemory\obj\Debug\CheckServiceMemory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CheckServiceMemory\CheckServiceMemory\obj\Debug\CheckServiceMemory.exe
+C:\Users\Administrator\source\repos\CheckServiceMemory\CheckServiceMemory\obj\Debug\CheckServiceMemory.pdb
+D:\服务器维护\CheckServiceMemory\CheckServiceMemory\obj\Debug\CheckServiceMemory.exe
+D:\服务器维护\CheckServiceMemory\CheckServiceMemory\obj\Debug\CheckServiceMemory.pdb
+D:\服务器维护\CheckServiceMemory\CheckServiceMemory\bin\Debug\CheckServiceMemory.exe
+D:\服务器维护\CheckServiceMemory\CheckServiceMemory\bin\Debug\CheckServiceMemory.pdb
+D:\服务器维护\CheckServiceMemory\CheckServiceMemory\bin\Debug\CheckServiceMemory.exe.config
